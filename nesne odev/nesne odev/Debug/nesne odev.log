@@ -1,0 +1,4 @@
+﻿  Kaynak.cpp
+c:\users\enesk\onedrive\masaüstü\nesne ıle programlama tekrar\nesne odev\nesne odev\kaynak.cpp(125): warning C4244: 'bağımsız değişken': 'time_t' - 'unsigned int' dönüşümü; veri kaybı olabilir
+c:\users\enesk\onedrive\masaüstü\nesne ıle programlama tekrar\nesne odev\nesne odev\kaynak.cpp(152): warning C4244: 'bağımsız değişken': 'double' - 'int' dönüşümü; veri kaybı olabilir
+  nesne odev.vcxproj -> C:\Users\enesk\OneDrive\Masaüstü\nesne ıle programlama tekrar\nesne odev\Debug\nesne odev.exe
