@@ -1,0 +1,12 @@
+1. kutunun  kordinatlari: (1,3)
+2. kutunun  kordinatlari: (1,2)
+3. kutunun  kordinatlari: (1,2)
+4. kutunun  kordinatlari: (3,1)
+5. kutunun  kordinatlari: (2,1)
+6. kutunun  kordinatlari: (1,2)
+7. kutunun  kordinatlari: (3,3)
+8. kutunun  kordinatlari: (2,2)
+9. kutunun  kordinatlari: (3,3)
+10. kutunun  kordinatlari: (3,3)
+X ekseni kutle merkezi: 2.63253
+Y ekseni kutle merkezi: 5.09036
