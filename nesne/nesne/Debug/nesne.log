@@ -1,0 +1,14 @@
+﻿  nesne.cpp
+D:\Enes Belge\BİLGİSAYAR MUHENDISLIGI(KTÜ)\KODLAMA\C++ Çalışmalar\nesne\nesne\matris.h(200,12): warning C4244: 'bağımsız değişken': 'time_t' - 'unsigned int' dönüşümü; veri kaybı olabilir
+D:\Enes Belge\BİLGİSAYAR MUHENDISLIGI(KTÜ)\KODLAMA\C++ Çalışmalar\nesne\nesne\matris.h(199): message : sınıf şablon üye işlevi 'matris<int>::matris(enes,enes,enes)' derlenirken
+          with
+          [
+              enes=int
+          ]
+D:\Enes Belge\BİLGİSAYAR MUHENDISLIGI(KTÜ)\KODLAMA\C++ Çalışmalar\nesne\nesne\nesne.cpp(21): message : derlenen şablon işlevi 'matris<int>::matris(enes,enes,enes)' örneği oluşturma başvurusuna bakın
+          with
+          [
+              enes=int
+          ]
+D:\Enes Belge\BİLGİSAYAR MUHENDISLIGI(KTÜ)\KODLAMA\C++ Çalışmalar\nesne\nesne\nesne.cpp(21): message : derlenen sınıf şablon örneği oluşturma 'matris<int>' başvurusuna bakın
+  nesne.vcxproj -> D:\Enes Belge\BİLGİSAYAR MUHENDISLIGI(KTÜ)\KODLAMA\C++ Çalışmalar\nesne\Debug\nesne.exe
