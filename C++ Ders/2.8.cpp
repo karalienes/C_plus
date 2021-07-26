@@ -3,12 +3,12 @@ using namespace std;
 
 int main(){
 
-// or || bir tanesi true ise sonuc true olacaktýr.
-// and && ikiside true olursa sonuc true olacaktýr.
-// not | false ise true , true ise false olacaktýr.
+// or || bir tanesi true ise sonuc true olacaktï¿½r.
+// and && ikiside true olursa sonuc true olacaktï¿½r.
+// not | false ise true , true ise false olacaktï¿½r.
 
 string sys_username = "enes_karali";
-string sys_password = "yazlimcibebe";
+string sys_password = "yazlimci";
 
 string username , password;
 

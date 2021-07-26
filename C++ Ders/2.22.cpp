@@ -4,11 +4,11 @@ using namespace std;
 
 int main(){
 
-string arrayy[]={"Enes","baban","anan"};
+string arrayy[]={"Enes"};
 string *ptr=arrayy;
 cout << ptr+1<< endl;
-cout << *(ptr +1)<< endl;// alttakı durum ıle aynıdır
-cout << ptr[1]<< endl;// Bu kullanım daha cok kullanılmaktadır.
+cout << *(ptr +1)<< endl;// alttakï¿½ durum ï¿½le aynï¿½dï¿½r
+cout << ptr[1]<< endl;// Bu kullanï¿½m daha cok kullanï¿½lmaktadï¿½r.
 
 
 
