@@ -1,0 +1,4 @@
+﻿  miras.cpp
+C:\Users\aleyn\source\repos\YASEMİN\YASEMİN\patenci.h(6,9): warning C4067:  ön işlemci yönergesinden sonra beklenmeyen belirteçler var - satır sonu bekleniyordu
+C:\Users\aleyn\source\repos\YASEMİN\YASEMİN\patenci.h(61,13): warning C4244:  'return': 'float' - 'int' dönüşümü; veri kaybı olabilir
+  YASEMİN.vcxproj -> C:\Users\aleyn\source\repos\YASEMİN\Debug\YASEMİN.exe

@@ -1,0 +1,7 @@
+﻿  Kaynak.cpp
+C:\Users\black\OneDrive\Masaüstü\deneme\Project1\Kaynak.cpp(138,12): warning C4101: 'k': yerel değişken başvurusu kaldırıldı
+C:\Users\black\OneDrive\Masaüstü\deneme\Project1\Kaynak.cpp(138,9): warning C4101: 'j': yerel değişken başvurusu kaldırıldı
+C:\Users\black\OneDrive\Masaüstü\deneme\Project1\Kaynak.cpp(199,16): warning C4101: 'k': yerel değişken başvurusu kaldırıldı
+C:\Users\black\OneDrive\Masaüstü\deneme\Project1\Kaynak.cpp(230,16): warning C4101: 'k': yerel değişken başvurusu kaldırıldı
+C:\Users\black\OneDrive\Masaüstü\deneme\Project1\Kaynak.cpp(86): warning C4715: 'Member::operator<': tüm denetim yolları değer döndürmez
+  Project1.vcxproj -> C:\Users\black\OneDrive\Masaüstü\deneme\Debug\Project1.exe

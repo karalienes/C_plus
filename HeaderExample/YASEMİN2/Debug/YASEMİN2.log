@@ -1,0 +1,4 @@
+﻿  main.cpp
+C:\Users\aleyn\source\repos\YASEMİN\YASEMİN2\main.cpp(3,9): warning C4067:  ön işlemci yönergesinden sonra beklenmeyen belirteçler var - satır sonu bekleniyordu
+C:\Users\aleyn\source\repos\YASEMİN\YASEMİN2\main.cpp(4,9): warning C4067:  ön işlemci yönergesinden sonra beklenmeyen belirteçler var - satır sonu bekleniyordu
+  YASEMİN2.vcxproj -> C:\Users\aleyn\source\repos\YASEMİN\Debug\YASEMİN2.exe
